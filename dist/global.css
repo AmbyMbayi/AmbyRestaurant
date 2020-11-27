@@ -1,0 +1,14 @@
+* {
+  font-family: "Roboto", sans-serif;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  scroll-behavior: smooth;
+}
+
+P {
+  font-weight: 300;
+  color: #111;
+}
+/*# sourceMappingURL=global.css.map */
